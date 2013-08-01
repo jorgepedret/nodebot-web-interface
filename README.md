@@ -3,9 +3,15 @@ nodebot-web-interface
 
 An example of a web interface powered by [Socket.IO](http://socket.io/) to control an Arduino robot using [johnny-five](https://github.com/rwldrn/johnny-five)
 
+For this project we used:
+ - [BOE Shield](http://www.parallax.com/BOEShield): A great kit with all the stuff that you need to make a robot.
+ - [Johnny-Five](https://github.com/rwldrn/johnny-five): JavaScript framework to make Arduino do cool stuff.
+ - [Socket.IO](http://socket.io/): Library to send events to the server through the browser.
+ - [Harp](http://harpjs.com/): Quick web server and pre-processors
+
 ## How does it work?
 
-For this project we used Johnny-Five and Socket.IO.
+![BOE Shield Kit](http://www.parallax.com/Portals/0/Images/Product%20Information/BOEShield/ShieldEquation.jpg)
 
 There are two main pieces: a server and a controller.
 
