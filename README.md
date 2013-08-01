@@ -21,6 +21,8 @@ The __controller__ is the web interface. Its job is to send different events to 
 
 The _server_ and the _controller_ can be in two different parts of the world and it'd still work (as long as you have Internet).
 
+[Watch a quick demo video](http://instagram.com/p/cdhYFCJ7J5/)
+
 ## Running project
 
 __Install the dependencies__
