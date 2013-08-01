@@ -59,5 +59,5 @@ If the controller doesn't work, make sure you're connecting to the right server.
 
 ## Authors
 
-- Jorge Pedret (@jorgepedret)
-- Donniel Thomas (@donnielrt)
+- Jorge Pedret [@jorgepedret](https://github.com/jorgepedret)
+- Donniel Thomas [@donnielrt](https://github.com/donnielrt)
