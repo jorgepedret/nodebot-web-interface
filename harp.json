@@ -1,0 +1,5 @@
+{
+  "globals": {
+    "server": "http://localhost:8888"
+  }
+}

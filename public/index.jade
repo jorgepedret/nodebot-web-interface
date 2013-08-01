@@ -1,0 +1,19 @@
+!!!5
+html(lang="en")
+  head
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    link(href="main.css", rel="stylesheet", type="text/css")
+  body
+    .controls
+      .controls-left
+        button#left.btn-left &larr;
+        button#right.btn-right &rarr;
+      .controls-right
+        button#fwd.btn-fwd &uarr;
+        button#back.btn-back &darr;
+      button#stop.btn-stop &times;
+      p.instructions Use your <strong>arrow keys</strong> to drive the bot and <strong>space bar</strong> to make it stop.
+    
+    script(src="http://code.jquery.com/jquery-2.0.3.min.js")
+    script(src="#{ globals.server }/socket.io/socket.io.js")
+    script(src="app.js")

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "harp": "0.8.x",
+    "express": "latest",
+    "johnny-five": "latest",
+    "socket.io": "latest"
+  }
+}
