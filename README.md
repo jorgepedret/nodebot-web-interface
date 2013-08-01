@@ -9,9 +9,9 @@ For this project we used:
  - [Socket.IO](http://socket.io/): Library to send events to the server through the browser.
  - [Harp](http://harpjs.com/): Quick web server and pre-processors
 
-## How does it work?
-
 ![BOE Shield Kit](http://www.parallax.com/Portals/0/Images/Product%20Information/BOEShield/ShieldEquation.jpg)
+
+## How does it work?
 
 There are two main pieces: a server and a controller.
 
